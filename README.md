@@ -1,25 +1,47 @@
-# GTA Series MP 文件归档
-此 repo 是原始 repo 的fork，目的只是为你提供通过 GitHub 下载 GTA系列的MP 归档的最简单办法。
+# GTA Trilogy Multiplayer 联机文件归档
 
-感谢 KrustyKoyle, sa-mp-kr, X0r0xN 为此整理了备份 :heart:
+本项目为上游仓库的镜像与归档分支，目的是为社区玩家和开发者提供一个便捷且稳定的 GitHub 下载渠道，用于获取 GTA 三部曲的历史联机客户端与服务端文件。
 
-# 文件列表
-如果你想下载某个你想要的文件，你可以单击下载
+特别感谢 **KrustyKoyle** 与 **sa-mp-kr** 为整理并备份这些珍贵资源所付出的努力！❤️
+本仓库由 @X0r0xN 在原版基础上重新梳理并持续维护
+注：因 GTA:LCMP (GTA III) 过于早期且对现代系统兼容性极差，本仓库目前仅重点收录与维护 SA-MP 与 VC-MP 相关文件。
 
-我认为目前最流行的联机客户端和服务端是 0.3.7 和 0.3.DL 版本，这是较多玩家在使用的。
+---
 
-* [客户端归档](#client-archive)
+## 反馈与贡献
+如果你在浏览或下载过程中发现任何**文件缺失、Hash 校验错误**，或者你手头有更完整的历史版本愿意分享，请通过 [GitHub Issues](../../issues) 提交，我会尽快核对并更新到仓库中。
+
+---
+
+## 许可证 (License)
+
+本项目文档与整理工作采用 [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans) 协议开源。
+
+注：仓库中收录的第三方联机组件及二进制文件版权归原作者和游戏官方所有，仅供历史研究与个人学习参考。
+
+---
+
+## 下载
+
+* **单文件下载**：在下方文件列表中找到对应版本，点击链接直接下载。
+* **完整打包下载**：前往 [Releases 页面](../../releases) 获取打包归档，或直接 [点击此处下载 master 分支压缩包 (.zip)](https://github.com/X0r0xN/GTA-Series-Multiplayer-Archives/archive/refs/heads/master.zip)。
+
+---
+
+> **版本建议**：
+> 目前社区中最为通用和主流的版本为 **SA-MP 0.3.7** 以及 **0.3.DL**。
+> 如果你追求更好的网络稳定性、漏洞修复及持续的社区支持，我强烈推荐尝试新兴的 [open.mp](https://www.open.mp/)。
+> 
+* [客户端文件](#client-archive)
     * [VC-MP(罪恶都市联机)](#vc-mp)
-    * [LC-MP](#lc-mp)
     * [0.1x](#01x)
     * [0.3a 至 0.3x](#03a-to-03x)
     * [0.3z](#03z)
     * [0.3.7](#037)
     * [0.3.8/DL](#038dl)
 
-* [服务端归档](#server-archive)
+* [服务端文件](#server-archive)
     * [VC-MP(罪恶都市联机)](#vc-mp-1)
-    * [LC-MP](#lc-mp-1)
     * [0.1x](#01x-1)
     * [0.3a 至 0.3x](#03a-to-03x-1)
     * [0.3z](#03z-1)
@@ -29,7 +51,7 @@
 
 * [其它文件](#others)
 
-## 客户端归档
+## 客户端文件
 
 ### 0.3.8/DL
 * [sa-mp-0.3.DL-R1-install.exe](/archives/sa-mp-0.3.DL-R1-install.exe?raw=true)
@@ -66,15 +88,12 @@
 ### 0.1x
 * [samp01b-installer.exe](/archives/samp01b-installer.exe?raw=true)
 
-### LC-MP
-* [lcmp01d.zip](/archives/lcmp01d.zip?raw=true)
-
 ### VC-MP(罪恶都市联机)
 * [vcmp01a.zip](/archives/vcmp01a.zip?raw=true)
 * [vcmp01b.zip](/archives/vcmp01b.zip?raw=true)
 * [vcmp01d.zip](/archives/vcmp01d.zip?raw=true)
 
-## 服务端归档
+## 服务端文件
 
 ### 0.3.8/DL
 * [samp03DL_svr_R1_win32.zip](/archives/samp03DL_svr_R1_win32.zip?raw=true)
@@ -162,15 +181,12 @@
 * [samp01svr.libcpp5.tar.gz](/archives/samp01svr.libcpp5.tar.gz?raw=true)
 * [samp01svr.tar.gz](/archives/samp01svr.tar.gz?raw=true)
 
-### LC-MP
-* [lcmpsvr01d.tar.gz](/archives/lcmpsvr01d.tar.gz?raw=true)
-
 ### VC-MP(罪恶都市联机)
 * [vcmpsvr01a.tar.gz](/archives/vcmpsvr01a.tar.gz?raw=true)
 * [vcmpsvr01b.tar.gz](/archives/vcmpsvr01b.tar.gz?raw=true)
 * [vcmpsvr01d.tar.gz](/archives/vcmpsvr01d.tar.gz?raw=true)
 
-## 其它
+## 其它文件
 * [gtasapatch.zip](/archives/gtasapatch.zip?raw=true)
 * [browser-fix-01b.zip](/archives/browser-fix-01b.zip?raw=true)
 * [interiors.txt](/archives/interiors.txt?raw=true)
