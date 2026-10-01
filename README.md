@@ -112,7 +112,6 @@
 * [samp03asvr_R4.tar.gz](/archives/samp03asvr_R4.tar.gz?raw=true)
 * [samp03asvr_R4_win32.zip](/archives/samp03asvr_R4_win32.zip?raw=true)
 * [samp03asvr_R7.tar.gz](/archives/samp03asvr_R7.tar.gz?raw=true)
-* [samp03asvr_R7_win32.zip](/archives/samp03asvr_R7_win32.zip?raw=true)
 * [samp03asvr_R8.tar.gz](/archives/samp03asvr_R8.tar.gz?raw=true)
 * [samp03asvr_R8_win32.zip](/archives/samp03asvr_R8_win32.zip?raw=true)
 * [samp03bsvr_R2.tar.gz](/archives/samp03bsvr_R2.tar.gz?raw=true)
